@@ -1,1 +1,1 @@
-![Workflow Diagram](images/workflow.png)
+![Workflow Diagram](AI_chatbot_workflow.png)
